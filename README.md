@@ -6,7 +6,7 @@ My [AeroSpace](https://github.com/nikitabobko/AeroSpace) tiling window manager c
 
 - Vim-style focus and move: `alt-h/j/k/l` and `alt-shift-h/j/k/l`
 - Workspaces on `alt-<key>`, send windows with `alt-shift-<key>`
-- 10px inner and outer gaps
+- 5px gaps between windows and at the left and right edges, 10px at the top and bottom
 - Spotify and Discord float by default
 - `alt-t` / `alt-f` / `alt-b` open Terminal / Finder / Brave
 - `alt-s` / `alt-d` summon Spotify / Discord onto the current workspace ([scripts/summon-app.sh](scripts/summon-app.sh))
