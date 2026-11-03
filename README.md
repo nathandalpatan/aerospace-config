@@ -8,6 +8,7 @@ My [AeroSpace](https://github.com/nikitabobko/AeroSpace) tiling window manager c
 - Workspaces on `alt-<key>`, send windows with `alt-shift-<key>`
 - 10px inner and outer gaps
 - Spotify and Discord float by default
+- `alt-t` / `alt-f` / `alt-b` open Terminal / Finder / Brave
 - `alt-s` / `alt-d` summon Spotify / Discord onto the current workspace ([scripts/summon-app.sh](scripts/summon-app.sh))
 - `alt-shift-;` enters service mode (reload, reset layout, toggle floating)
 
